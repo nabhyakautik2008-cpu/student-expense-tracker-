@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 450.0,
+        "category": "food",
+        "description": "canteen lunch"
+    },
+    {
+        "amount": 3600.0,
+        "category": "academics",
+        "description": "textbooks"
+    },
+    {
+        "amount": 950.0,
+        "category": "travel",
+        "description": "tickets"
+    },
+    {
+        "amount": 2500.0,
+        "category": "academics",
+        "description": "notebooks and stationary"
+    },
+    {
+        "amount": 10000.0,
+        "category": "FOOD",
+        "description": "FOOD"
+    },
+    {
+        "amount": 100.0,
+        "category": "food",
+        "description": "lunch"
+    }
+]
